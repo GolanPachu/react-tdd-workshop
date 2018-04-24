@@ -13,8 +13,9 @@
     "monaco": true
   },
   "rules": {
+    "linebreak-style": 0,
     "prettier/prettier": [
-      "error",
+      "warn",
       {
         "bracketSpacing": true,
         "printWidth": 100,
